@@ -1,0 +1,4 @@
+{
+  "title": "Emergent algorithm",
+  "text": "An emergent algorithm is an algorithm that exhibits emergent behavior.  In essence an emergent algorithm implements a set of simple building block behaviors that when combined exhibit more complex behaviors.  One example of this is the implementation of fuzzy motion controllers used to adapt robot movement in response to environmental obstacles.\nAn emergent algorithm has the following characteristics: \n\nit achieves predictable global effects\nit does not require global visibility\nit does not assume any kind of centralized control\nit is self-stabilizing\nOther examples of emergent algorithms and models include cellular automata, artificial neural networks and swarm intelligence systems (ant colony optimization, bees algorithm, etc.).\n\n\n== See also ==\nArtificial intelligence\nAI effect\nEmergence\nEvolutionary computation\nFuzzy logic\nGenetic algorithm\nHeuristic\n\n\n== References =="
+}
