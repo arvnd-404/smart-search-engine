@@ -1,3 +1,11 @@
 aiohttp
 beautifulsoup4
 lxml
+requests
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+streamlit
+scikit-learn
+numpy
