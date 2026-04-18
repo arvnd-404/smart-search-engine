@@ -66,6 +66,7 @@ streamlit run app.py
 ---
 
 ## Project Structure
+```
 smart-search/
 ├── crawler/              → fetches Wikipedia pages
 ├── embedder/             → converts text to vectors
@@ -78,5 +79,6 @@ smart-search/
 ├── requirements.txt      → all dependencies
 ├── README.md             → project overview
 └── DOCUMENTATION.md      → detailed documentation
+```
 ```
 
