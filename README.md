@@ -66,14 +66,17 @@ streamlit run app.py
 ---
 
 ## Project Structure
-```
 smart-search/
-├── crawler/         → fetches Wikipedia pages
-├── embedder/        → converts text to vectors
-├── search/          → ChromaDB search logic
-├── api.py           → FastAPI backend
-├── app.py           → Streamlit UI
-└── main.py          → runs everything
-```
+├── crawler/              → fetches Wikipedia pages
+├── embedder/             → converts text to vectors
+├── search/               → ChromaDB search logic
+├── data/                 → embeddings and crawled pages
+├── api.py                → FastAPI backend
+├── app.py                → Streamlit UI
+├── main.py               → runs everything
+├── Dockerfile            → cloud deployment config
+├── requirements.txt      → all dependencies
+├── README.md             → project overview
+└── DOCUMENTATION.md      → detailed documentation
 ```
 
